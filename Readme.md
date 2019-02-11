@@ -4,8 +4,8 @@ This simulaton replicates a pinhole camera and how it projects 3D points to 2D, 
 
 ##Execution  
 
-make  
-./Build/Skeleton  
+*make*  
+*./Build/Skeleton*  
 
 ##Libraries  
 
